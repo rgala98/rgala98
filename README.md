@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 <div align="center">
   
-  <h1>Rahul<img src="https://i.imgur.com/GuKJg8t.png" width="200"/>Gala</h1>
+  <h1>Rahul<img src="https://i.imgur.com/IxVmOFe.png" width="200"/>Gala</h1>
 </div>
