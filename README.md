@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div align="center">
+  
+  <h1>Rahul</h1><img/><h1>Gala</>
+  
+  </div>
