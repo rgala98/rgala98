@@ -17,5 +17,6 @@ Here are some ideas to get you started:
 
 <div align="center">
   
-  <h1>Rahul<img src="https://i.imgur.com/IxVmOFe.png" width="200"/>Gala</h1>
+  ### Rahul<img src="https://i.imgur.com/IxVmOFe.png" width="200"/>Gala
+  #### Co-Founder | Developer | Designer
 </div>
