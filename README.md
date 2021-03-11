@@ -17,6 +17,5 @@ Here are some ideas to get you started:
 
 <div align="center">
   
-  <p>Rahul</p><img/><p>Gala</p>
-  
-  </div>
+  <h1>Rahul<img src="https://i.imgur.com/GuKJg8t.png" width="200"/>Gala</h1>
+</div>
