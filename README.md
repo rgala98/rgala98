@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 <div align="center">
   
-  <h1>Rahul</h1><img/><h1>Gala</>
+  <h3>Rahul</h3><img/><h3>Gala</h3>
   
   </div>
