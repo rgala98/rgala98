@@ -70,7 +70,7 @@ Here are some ideas to get you started:
   <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="50" height="50"/> 
   <br/><br/>
   
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Android_Studio_Icon_2020.svg/1200px-Android_Studio_Icon_2020.svg.png" alt="android studio" width="50" height="50"/>
+  <img src="https://1.bp.blogspot.com/-LgTa-xDiknI/X4EflN56boI/AAAAAAAAPuk/24YyKnqiGkwRS9-_9suPKkfsAwO4wHYEgCLcBGAsYHQ/s0/image9.png" alt="android studio" width="50" height="50"/>
   <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vscode" width="50" height="50"/> 
   <img src="https://developer.apple.com/design/human-interface-guidelines/macos/images/app-icon-realistic-materials_2x.png" alt="xcode" width="50" height="50"/> 
   <br/><br/>
